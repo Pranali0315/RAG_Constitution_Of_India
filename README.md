@@ -1,4 +1,4 @@
-# 📜 ConstitutionRAG
+# 📜 Widhaan
 
 **ConstitutionRAG** is an intelligent AI-powered system designed to provide context-aware answers to questions about the **Indian Constitution**. Using **Retrieval-Augmented Generation (RAG)**, it fetches relevant constitutional articles, parts, and schedules, and generates accurate responses using powerful language models.
 
